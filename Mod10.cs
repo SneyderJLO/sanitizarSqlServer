@@ -10,6 +10,10 @@ namespace ejercicioSanitizar
     {
         private string _serialNumber;
 
+        public Mod10(string serialNumber)
+        {
+            _serialNumber = serialNumber;
+        }
 
         public string ActivationCardNumber
         {

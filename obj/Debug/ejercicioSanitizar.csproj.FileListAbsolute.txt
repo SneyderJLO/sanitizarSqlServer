@@ -6,3 +6,14 @@ D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\eje
 D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.csproj.CoreCompileInputs.cache
 D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.exe
 D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.pdb
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\bin\Debug\ejercicioSanitizar.exe.config
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\bin\Debug\ejercicioSanitizar.exe
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\bin\Debug\ejercicioSanitizar.pdb
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.exe
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.pdb
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\bin\Debug\Faker.Net.4.7.dll
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\bin\Debug\de-DE\Faker.Net.4.7.resources.dll
+C:\Users\usrTechsoft\Source\Repos\sanitizarSqlServer\obj\Debug\ejercicioSanitizar.csproj.CopyComplete
