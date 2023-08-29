@@ -1,0 +1,8 @@
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\bin\Debug\ejercicioSanitizar.exe.config
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\bin\Debug\ejercicioSanitizar.exe
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\bin\Debug\ejercicioSanitizar.pdb
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.csproj.AssemblyReference.cache
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.csproj.SuggestedBindingRedirects.cache
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.csproj.CoreCompileInputs.cache
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.exe
+D:\Users\enrique\Documents\Cursos\c#\ejercicios\ejercicioSanitizar\obj\Debug\ejercicioSanitizar.pdb
