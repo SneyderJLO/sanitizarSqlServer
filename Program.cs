@@ -52,8 +52,6 @@ namespace ejercicioSanitizar
                     string primerApellido = Faker.Name.Last();
                     string segundoApellido = Faker.Name.Last();
                     string fullName = $"{primerNombre} {segundoNombre} {primerApellido} {segundoApellido}";
-
-
                     cod = random.Next(1, 24);
 
                     if (cod < 10)
@@ -66,10 +64,13 @@ namespace ejercicioSanitizar
                         strSec = cod.ToString().PadLeft(codIdent.Length, '0');
 
                     }
-                    var mod = new Mod10(reader[1].ToString());
-                    var digit = mod.CheckDigit.ToString();
+                    string valorFinal = codIdent + strSec;
+                    var mod = new Mod10(valorFinal);
+
+                    var digit = mod.ActivationCardNumber.ToString();
+                    // Console.WriteLine(digit);
                     Console.WriteLine("Cedula:\t\t" + reader[1].ToString());
-                    Console.WriteLine("sanitizado:\t" + codIdent + strSec + digit);
+                    Console.WriteLine("sanitizado:\t" + digit);
                     Console.WriteLine($"Nombre\t\t{primerNombre}\nApellido\t{primerApellido}\nfullName\t{fullName}");
                     Console.WriteLine("--------------------------------------------");
                 }
